@@ -20,3 +20,21 @@ Our team name is 5Doppelgangers and our selected topic is "Where it pays to go t
 
 Our team will utilize Slack as the main form of communication. For emergencies, or in case of Slack malfunctioning, team members will text each other via cell phone or can connect via Linkedin messaging/email. 
 
+## Data Exploration
+### Preliminary Data Preprocessing
+- In the preliminary data preprocessing we removed the dollar signs and commas from our salary values.  We also removed all columns from the data set that we weren’t using.
+### Preliminary Feature Engineering & Preliminary Feature Selection
+- We kept our features data (School Type) and target (Starting Median Salary) as our hypothesis was that we could predict starting salary based on school type.
+- Our feature data was categorical, which we changed using OneHotEncoder
+### Training and testing sets
+- We split our data into training and testing sets using test_train_split from sklearn
+- After splitting our data we scaled both training and testing data sets
+### The Model
+- We chose to use a linear regression model as it designed to try and predict a value, in this case, starting salary.  Some limitations of linear regression models are:
+ - Linear Regression is Limited to Linear Relationships
+ - It assumes there is a straight-line relationship between dependent and independent variables, sometimes this is incorrect
+  -Looks only at the Mean of the Dependent Variable
+  - Not a complete description of relationships among variables
+
+
+
