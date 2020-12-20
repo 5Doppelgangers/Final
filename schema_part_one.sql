@@ -46,8 +46,13 @@ REFERENCES "Salaries_by_College_Type" ("School_Name");
 
 -- Joinning Tables
 SELECT sr."School_Name",
-sr."Region"
+sr."Region",
+sc."School_Type"
 Into School_Region_Salaries
 FROM "Salaries_by_Region" as sr
 INNER JOIN "Salaries_by_College_Type" as sc
 ON sr."School_Name" = sc."School_Name";
+
+--DROP TABLE School_Region_Salaries;
+
+SELECT * From School_Region_Salaries
