@@ -30,7 +30,7 @@ Our team will utilize Slack as the main form of communication. For emergencies, 
 - We split our data into training and testing sets using test_train_split from sklearn
 - After splitting our data we scaled both training and testing data sets
 ### The Model
-- We chose to use a linear regression model as it designed to try and predict a value, in this case, starting salary.  Some limitations of linear regression models are:
+We chose to use a linear regression model as it designed to try and predict a value, in this case, starting salary.  Some limitations of linear regression models are:
  - Linear Regression is Limited to Linear Relationships
       - It assumes there is a straight-line relationship between dependent and independent variables, sometimes this is incorrect
  - Looks only at the Mean of the Dependent Variable
