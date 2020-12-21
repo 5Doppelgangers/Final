@@ -4,10 +4,6 @@
 Link to Google Slides Presentation:
 [GoogleSlideshowPresentation](https://docs.google.com/presentation/d/1yfVP8bKyJE5PCutWW47kCMDtD_pFFnz2kcA6OhGqN6s/edit#slide=id.p)
 
-Links to Machine Learning Citations:
-[GradientBoostingRegression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
-[ComparingRegressionModels](https://www.kaggle.com/ankitjha/comparing-regression-models/comments)
-[ArticlePredictiveModelsofStudentCollegeCommitment](https://www.mdpi.com/2306-5729/4/2/65/htm)
 
 ## Introduction
 
@@ -20,3 +16,13 @@ Our team name is 5Doppelgangers and our selected topic is "Where it pays to go t
 
 Our team will utilize Slack as the main form of communication. For emergencies, or in case of Slack malfunctioning, team members will text each other via cell phone or can connect via Linkedin messaging/email. 
 
+
+### Data Exploration Analysis of College Data by U.S. Regions
+
+
+![regionalpiecount.png](https://github.com/5Doppelgangers/Final/blob/Yolanda/regional_analysis_graphs/regionalpiecount.png)
+
+## Citations and Resources
+
+Links to Machine Learning Citations:
+[GradientBoostingRegression](https://scikit-learn.org/stable/auto_examples/ensemble/plot_gradient_boosting_regression.html)
