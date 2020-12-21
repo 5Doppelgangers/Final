@@ -38,5 +38,9 @@ We chose to use a linear regression model as it designed to try and predict a va
  - Looks only at the Mean of the Dependent Variable
       - Not a complete description of relationships among variables
 
+## Analysis
+
+For our linear regression model we will be calculating the Mean Square Error (MSE).  The MSE is based on the square of the error and the value lies between 0 and infinity.  MSE is used to check how close estimates or forecasts are to actual values. Lower the MSE, the closer is forecast to actual. This is used as a model evaluation measure for regression models and the lower value indicates a better fit.
+
 
 
