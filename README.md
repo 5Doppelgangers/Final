@@ -40,11 +40,11 @@ We chose to use a linear regression model as it designed to try and predict a va
 
 ## Analysis
 
-For our linear regression model we will be calculating the Mean Square Error (MSE).  The MSE is based on the square of the error and the value lies between 0 and infinity.  MSE is used to check how close estimates or forecasts are to actual values. Lower the MSE, the closer is forecast to actual. This is used as a model evaluation measure for regression models and the lower value indicates a better fit.
+For our linear regression model we will be calculating the Mean Square Error (MSE).  The MSE is based on the square of the error and the value lies between 0 and infinity.  MSE is used to check how close estimates or forecasts are to actual values. Lower the MSE, the closer is forecast to actual. This is used as a model evaluation measure for regression models and the lower value indicates a better fit.  The smaller the MSE the more accurate the mdoel.
 
-The error rate on the training set (mean absolute error is the measure of the average prediction error across the data set) is 3503.02.
+The MSE on the training set is 3503.02.
 
-The MSEon the test set
+The MSEon the test set 4553.66.
 
 
 
