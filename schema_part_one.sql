@@ -51,3 +51,5 @@ Into School_Region_Salaries
 FROM "Salaries_by_Region" as sr
 INNER JOIN "Salaries_by_College_Type" as sc
 ON sr."School_Name" = sc."School_Name";
+
+CREATE TABLE "Income_Outcome"
