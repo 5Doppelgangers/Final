@@ -22,6 +22,8 @@ Our team will utilize Slack as the main form of communication. For emergencies, 
 
 ![regionalpiecount.png](https://github.com/5Doppelgangers/Final/blob/Yolanda/regional_analysis_graphs/regionalpiecount.png)
 
+![StartingSalariesbyRegions.png](https://github.com/5Doppelgangers/Final/blob/Yolanda/regional_analysis_graphs/StartingSalariesbyRegions.png)
+
 ## Citations and Resources
 
 Links to Machine Learning Citations:
