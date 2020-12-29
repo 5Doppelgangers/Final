@@ -53,3 +53,7 @@ INNER JOIN "Salaries_by_College_Type" as sc
 ON sr."School_Name" = sc."School_Name";
 
 CREATE TABLE "Income_Outcome"
+
+--DROP TABLE School_Region_Salaries;
+
+SELECT * From School_Region_Salaries
