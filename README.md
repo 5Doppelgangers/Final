@@ -14,10 +14,6 @@ Our team name is 5Doppelgangers and our selected topic is "Where it pays to go t
 1. Which school had the highest paid graduates? Can we predict, based on school, what a person's salary will likely be regardless of major?
 2. Which state within the US pays the highest salaries to graduates from each school? Can we predict, based on a person's school and region, what they will likely make upon graduation? 
 
-## Communication Protocol 
-
-Our team will utilize Slack as the main form of communication. For emergencies, or in case of Slack malfunctioning, team members will text each other via cell phone or can connect via Linkedin messaging/email. 
-
 
 ### Data Exploration Analysis of College Data by U.S. Regions
 
