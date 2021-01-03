@@ -31,7 +31,7 @@ Links to Machine Learning Citations:
 ### Preliminary Data Preprocessing
 - In the preliminary data preprocessing we removed the dollar signs and commas from our salary values.  We also removed all columns from the data set that we weren’t using.
 ### Preliminary Feature Engineering & Preliminary Feature Selection
-- We kept our features data (School Type) and target (Starting Median Salary) as our hypothesis was that we could predict starting salary based on school type.
+- We kept our features data (School Type) and target (Starting Median Salary), as our hypothesis was that we could predict starting salary based on school type.
 - Our feature data was categorical, which we changed using OneHotEncoder
 ### Training and testing sets
 - We split our data into training and testing sets using test_train_split from sklearn
