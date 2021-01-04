@@ -7,4 +7,4 @@
  SCIKITlearn is the machine learning library we will be using. 
  Our training and testing set-up will use train_test_split.
  ## Dashboard
- We will be using Tablue to create a fun and creative dashboard.
+ We will be using Tablue to create a fun and creative dashboard. We will probably be making a storyboard with Tablue. 
