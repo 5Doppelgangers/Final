@@ -1,7 +1,7 @@
 # Final
 
 Link to Final Project Storyboard:
-[Storyboard](https://docs.google.com/presentation/d/1ht1hk_sn-CiX-J2YzO6DiYDozsI42h3W94YKDzSpz-c/edit#slide=id.gb247753075_0_50)
+[Storyboard](https://public.tableau.com/views/FinalProject_16097282132530/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 Link to Google Slides Presentation:
 [GoogleSlideshowPresentation](https://docs.google.com/presentation/d/1yfVP8bKyJE5PCutWW47kCMDtD_pFFnz2kcA6OhGqN6s/edit#slide=id.p)
