@@ -1,0 +1,231 @@
+School_Name,Region,School_Type
+Appalachian State University,Southern,State
+Arkansas State University (ASU),Southern,State
+Auburn University,Southern,State
+Austin Peay State University,Southern,State
+Ball State University (BSU),Midwestern,State
+Bates College,Northeastern,Liberal Arts
+Binghamton University,Northeastern,State
+Black Hills State University,Midwestern,State
+Boise State University (BSU),Western,State
+Bowdoin College,Northeastern,Liberal Arts
+Bowling Green State University,Midwestern,State
+Brown University,Northeastern,Ivy League
+Bucknell University,Northeastern,Liberal Arts
+Cal Poly San Luis Obispo,California,State
+California Institute of Technology (CIT),California,Engineering
+"California State University (CSU), Chico",California,State
+"California State University (CSU), Stanislaus",California,State
+"California State University, Dominguez Hills (CSUDH)",California,State
+"California State University, East Bay (CSUEB)",California,State
+"California State University, Fullerton (CSUF)",California,State
+"California State University, Long Beach (CSULB)",California,State
+"California State University, Northridge (CSUN)",California,State
+"California State University, Sacramento (CSUS)",California,State
+Carleton College,Midwestern,Liberal Arts
+Carnegie Mellon University (CMU),Northeastern,Engineering
+Clemson University,Southern,State
+Cleveland State University,Midwestern,State
+Colby College,Northeastern,Liberal Arts
+Colgate University,Northeastern,Liberal Arts
+College of the Holy Cross,Northeastern,Liberal Arts
+Colorado College (CC),Western,Liberal Arts
+Colorado School of Mines,Western,Engineering
+Colorado State University (CSU),Western,State
+Columbia University,Northeastern,Ivy League
+Cooper Union,Northeastern,Engineering
+Cornell University,Northeastern,Ivy League
+Dartmouth College,Northeastern,Ivy League
+Davidson College,Southern,Liberal Arts
+Denison University,Midwestern,Liberal Arts
+DePauw University,Midwestern,Liberal Arts
+East Carolina University (ECU),Southern,State
+Eastern Michigan University,Midwestern,State
+Eastern Washington University,Western,State
+Evergreen State College,Western,Liberal Arts
+Fitchburg State College,Northeastern,State
+Florida Atlantic University (FAU),Southern,State
+Florida International University (FIU),Southern,State
+Florida State University (FSU),Southern,Party
+Florida State University (FSU),Southern,State
+Fort Lewis College,Western,Liberal Arts
+Franklin and Marshall College,Northeastern,Liberal Arts
+George Mason University,Southern,State
+Georgia Institute of Technology,Southern,Engineering
+Georgia State University,Southern,State
+Gettysburg College,Northeastern,Liberal Arts
+Grinnell College,Midwestern,Liberal Arts
+Gustavus Adolphus College,Midwestern,Liberal Arts
+Hamilton College,Northeastern,Liberal Arts
+Harvard University,Northeastern,Ivy League
+Harvey Mudd College,California,Engineering
+Humboldt State University,California,State
+Idaho State University,Western,State
+Illinois Institute of Technology (IIT),Midwestern,Engineering
+Illinois State University,Midwestern,State
+Iowa State University,Midwestern,State
+Juniata College,Northeastern,Liberal Arts
+Kansas State University (KSU),Midwestern,State
+Kent State University,Midwestern,State
+Lafayette College,Northeastern,Liberal Arts
+Lamar University,Southern,State
+Lewis & Clark College,Western,Liberal Arts
+Massachusetts Institute of Technology (MIT),Northeastern,Engineering
+Michigan State University (MSU),Midwestern,State
+Middlebury College,Northeastern,Liberal Arts
+Minnesota State University - Mankato,Midwestern,State
+Mississippi State University (MSU),Southern,State
+Missouri State University (MSU),Midwestern,State
+Montana State University - Billings,Western,State
+Montana State University - Bozeman,Western,State
+Moravian College,Northeastern,Liberal Arts
+Morehead State University,Southern,State
+Mount Holyoke College,Northeastern,Liberal Arts
+New Mexico Institute of Mining and Technology (New Mexico Tech),Western,Engineering
+New Mexico State University,Western,State
+North Carolina State University (NCSU),Southern,State
+North Dakota State University (NDSU),Midwestern,State
+Northern Illinois University (NIU),Midwestern,State
+Oberlin College,Midwestern,Liberal Arts
+Occidental College,California,Liberal Arts
+Ohio State University (OSU),Midwestern,State
+Oklahoma State University,Southern,State
+Oregon State University (OSU),Western,State
+Penn State - Harrisburg,Northeastern,State
+Pittsburg State University,Midwestern,State
+"Polytechnic University of New York, Brooklyn",Northeastern,Engineering
+Pomona College,California,Liberal Arts
+Portland State University (PSU),Western,State
+Princeton University,Northeastern,Ivy League
+Purdue University,Midwestern,State
+Reed College,Western,Liberal Arts
+Rensselaer Polytechnic Institute (RPI),Northeastern,Engineering
+Rochester Institute of Technology (RIT),Northeastern,Engineering
+Rutgers University,Northeastern,State
+San Diego State University (SDSU),California,State
+San Francisco State University (SFSU),California,State
+San Jose State University (SJSU),California,State
+Siena College,Northeastern,Liberal Arts
+Skidmore College,Northeastern,Liberal Arts
+Smith College,Northeastern,Liberal Arts
+South Dakota School of Mines & Technology,Midwestern,Engineering
+South Dakota State University (SDSU),Midwestern,State
+Southern Illinois University Carbondale,Midwestern,State
+Southern Utah University,Western,State
+St. Cloud State University,Midwestern,State
+St. Olaf College,Midwestern,Liberal Arts
+State University of New York (SUNY) at Buffalo,Northeastern,State
+State University of New York (SUNY) at Farmingdale,Northeastern,State
+State University of New York (SUNY) at Fredonia,Northeastern,State
+State University of New York (SUNY) at Geneseo,Northeastern,State
+State University of New York (SUNY) at Oneonta,Northeastern,State
+State University of New York (SUNY) at Oswego,Northeastern,State
+State University of New York (SUNY) at Plattsburgh,Northeastern,State
+State University of New York (SUNY) at Potsdam,Northeastern,State
+Stevens Institute of Technology,Northeastern,Engineering
+Stony Brook University,Northeastern,State
+Swarthmore College,Northeastern,Liberal Arts
+Tarleton State University (TSU),Southern,State
+Tennessee Technological University,Southern,Engineering
+Texas A&M University,Southern,State
+Thomas Aquinas College,California,Liberal Arts
+Union College,Northeastern,Liberal Arts
+University of Akron,Midwestern,State
+University of Alabama at Birmingham (UAB),Southern,State
+University of Alabama at Huntsville (UAH),Southern,State
+"University of Alaska, Anchorage",Western,State
+University of Arizona,Western,State
+University of Arkansas,Southern,State
+University of Arkansas - Monticello (UAM),Southern,State
+University of California at Los Angeles (UCLA),California,State
+"University of California, Berkeley",California,State
+"University of California, Davis",California,State
+"University of California, Irvine (UCI)",California,State
+"University of California, Riverside (UCR)",California,State
+"University of California, San Diego (UCSD)",California,State
+"University of California, Santa Cruz (UCSC)",California,State
+University of Central Florida (UCF),Southern,State
+University of Colorado - Boulder (UCB),Western,State
+University of Colorado - Denver,Western,State
+University of Connecticut (UConn),Northeastern,State
+University of Delaware,Southern,State
+University of Hawaii,Western,State
+University of Houston (UH),Southern,State
+University of Idaho,Western,State
+University of Illinois at Chicago,Midwestern,State
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,State
+University of Kansas,Midwestern,State
+University of Kentucky (UK),Southern,State
+University of Louisiana (UL) at Lafayette,Southern,State
+University Of Maine,Northeastern,State
+University of Maryland Baltimore County (UMBC),Southern,State
+University of Massachusetts (UMass) - Amherst,Northeastern,State
+University of Massachusetts (UMass) - Boston,Northeastern,State
+University of Massachusetts (UMass) - Dartmouth,Northeastern,State
+University of Massachusetts (UMass) - Lowell,Northeastern,State
+University of Memphis (U of M),Southern,State
+University of Michigan,Midwestern,State
+University of Minnesota,Midwestern,State
+University of Missouri - Columbia,Midwestern,State
+University of Missouri - Kansas City (UMKC),Midwestern,State
+University of Missouri - Rolla (UMR),Midwestern,State
+University of Missouri - St. Louis (UMSL),Midwestern,State
+University of Montana,Western,State
+University of Nebraska,Midwestern,State
+University of Nebraska at Omaha,Midwestern,State
+"University of Nevada, Las Vegas (UNLV)",Western,State
+"University of Nevada, Reno (UNR)",Western,State
+University of New Mexico (UNM),Western,State
+University of North Carolina at Chapel Hill (UNCH),Southern,State
+University of North Carolina at Charlotte (UNCC),Southern,State
+University of North Carolina at Wilmington (UNCW),Southern,State
+University of North Dakota,Midwestern,State
+University of Oklahoma,Southern,State
+University of Oregon,Western,State
+University of Pennsylvania,Northeastern,Ivy League
+University of Puget Sound,Western,Liberal Arts
+University of Rhode Island (URI),Northeastern,State
+University of Richmond,Southern,Liberal Arts
+University of South Carolina,Southern,State
+University of South Florida (USF),Southern,State
+University of Southern Maine,Northeastern,State
+University of Texas at Arlington (UTA),Southern,State
+University of Texas at El Paso (UTEP),Southern,State
+University of Texas at San Antonio (UTSA),Southern,State
+University of Toledo,Midwestern,State
+University of Utah,Western,State
+University of Vermont (UVM),Northeastern,State
+University of Virginia (UVA),Southern,State
+University of Washington (UW),Western,State
+University of Wisconsin (UW) - Eau Claire,Midwestern,State
+University of Wisconsin (UW) - Green Bay,Midwestern,State
+University of Wisconsin (UW) - La Crosse,Midwestern,State
+University of Wisconsin (UW) - Madison,Midwestern,State
+University of Wisconsin (UW) - Milwaukee,Midwestern,State
+University of Wisconsin (UW) - Oshkosh,Midwestern,State
+University of Wisconsin (UW) - Parkside,Midwestern,State
+University of Wisconsin (UW) - Platteville,Midwestern,State
+University of Wisconsin (UW) - Stevens Point,Midwestern,State
+University of Wisconsin (UW) - Stout,Midwestern,State
+University of Wisconsin (UW) - Whitewater,Midwestern,State
+University of Wyoming (UW),Western,State
+Ursinus College,Northeastern,Liberal Arts
+Utah State University,Western,State
+Utah Valley State College,Western,State
+Vassar College,Northeastern,Liberal Arts
+Virginia Commonwealth University (VCU),Southern,State
+Virginia Polytechnic Institute and State University (Virginia Tech),Southern,Engineering
+Washington and Lee University,Southern,Liberal Arts
+Washington State University (WSU),Western,State
+Wayne State University,Midwestern,State
+Wellesley College,Northeastern,Liberal Arts
+Wentworth Institute of Technology,Northeastern,Engineering
+"Wesleyan University (Middletown, Connecticut)",Northeastern,Liberal Arts
+Western Carolina University,Southern,State
+Western Michigan University (WMU),Midwestern,State
+Western Washington University,Western,State
+Whitman College,Western,Liberal Arts
+Williams College,Northeastern,Liberal Arts
+Wittenberg University,Midwestern,Liberal Arts
+Worcester Polytechnic Institute (WPI),Northeastern,Engineering
+Yale University,Northeastern,Ivy League
