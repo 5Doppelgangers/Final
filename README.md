@@ -25,8 +25,13 @@ Some preliminary data exploration that was explored included a pie chart that ga
 ![regionalpiecount.png](https://github.com/5Doppelgangers/Final/blob/Yolanda/regional_analysis_graphs/regionalpiecount.png)
 * As the chart shows, most of our data came from the Northeastern region of the U.S.
 * The least amount of data was sourced from the California region.
- 
+
+An analysis of the starting median salary by region shows:
 ![StartingSalariesbyRegions.png](https://github.com/5Doppelgangers/Final/blob/Yolanda/regional_analysis_graphs/StartingSalariesbyRegions.png)
+* The California region had the highest salary point, followed closely by the Northeastern region.
+* The lowest salary point in the comparisons was the Southern region, followed by the Midwestern region.
+* The lowest "high" salary point came from the Midwestern region.
+* Even though the least amount of our data by region came from the California region, it had the highest median starting salaries.
 
 ## Data Exploration
 ### Preliminary Data Preprocessing
