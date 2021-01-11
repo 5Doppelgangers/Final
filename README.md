@@ -35,7 +35,12 @@ We visualized each categorical feature to see which features could be good predi
 ![Violin Plot - Region vs Salary](https://github.com/5Doppelgangers/Final/blob/main/Images/Violin%20Graph%20-%20Region%20vs%20Salaries.PNG)
 We can see that the California region had the highest salary, followed closely by the Northeastern region. Distributions appear normal.
 
-![Violin Plot - Type vs Salary]
+![Violin Plot - Type vs Salary](https://github.com/5Doppelgangers/Final/blob/main/Images/Violin%20Graph%20-%20Type%20vs%20Salaries.PNG)
+We can see that Ivy League and Engineering are the highest starting salary school types. Distribution seems normal.
+
+### Correlation between all the features
+By using One-hot encoder, we assigned all numerical values to all the features and we can see the correlation between them.
+
 
 ### Preliminary Data Preprocessing
 - In the preliminary data preprocessing we removed the dollar signs and commas from our salary values.  We also removed all columns from the data set that we weren’t using.
