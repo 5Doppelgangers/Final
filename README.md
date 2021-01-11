@@ -32,6 +32,11 @@ Links to Machine Learning Citations:
 ### Visualizations of categorical features
 We visualized each categorical feature to see which features could be good predictors of salary.  We used a violin plot to see the shape of the distribution curve along with mean and interquartile ranges.
 
+![Violin Plot - Region vs Salary](https://github.com/5Doppelgangers/Final/blob/main/Images/Violin%20Graph%20-%20Region%20vs%20Salaries.PNG)
+We can see that the California region had the highest salary, followed closely by the Northeastern region. Distributions appear normal.
+
+![Violin Plot - Type vs Salary]
+
 ### Preliminary Data Preprocessing
 - In the preliminary data preprocessing we removed the dollar signs and commas from our salary values.  We also removed all columns from the data set that we weren’t using.
 ### Preliminary Feature Engineering & Preliminary Feature Selection
