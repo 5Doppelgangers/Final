@@ -50,7 +50,8 @@ We can see that Ivy League and Engineering are the highest starting salary schoo
 
 ### Correlation between all the features
 By using One-hot encoder, we assigned all numerical values to all the features and we can see the correlation between them.
-![Correlation Heat Map] (https://github.com/5Doppelgangers/Final/blob/main/Images/Correlation%20Heat%20Map.PNG)
+![Correlation Heat Map](https://github.com/5Doppelgangers/Final/blob/main/Images/Correlation%20Heat%20Map.PNG)
+Engineering School Type has the highest correlation with salary followed closely by Ivy League School Type.
 
 ### Preliminary Data Preprocessing
 - In the preliminary data preprocessing we removed the dollar signs and commas from our salary values.  We also removed all columns from the data set that we weren’t using.
