@@ -84,6 +84,10 @@ The 5-Cross Validation accuracy is 0.4988 for our prediction model and 0.2975 fo
 ![Distribution Plot of Actual Values vs Predicted Values](https://github.com/5Doppelgangers/Final/blob/main/Images/Distribution%20Graph%20of%20Actual%20Values%20vs%20Predicted%20Values.PNG)
 We can see that the actual values and predicted values are different in our train data. The range of the predicted values is lower, however, the mean doesn't look drastically different. Next, we do the same for the 20% test data to see if the outcome is similar.
 
+![Distribution Plot of Predicted values of test data vs Actual values of test data (https://github.com/5Doppelgangers/Final/blob/main/Images/Distribution%20Plot%20of%20Actual%20Values%20vs%20Predicted%20Values%20of%20test%20data.PNG)
+
+The distribution is not very different when comparing the training data and test data.
+
 ## Observations
 
 
