@@ -73,14 +73,16 @@ We chose to use a linear regression model as it designed to try and predict a va
 ### MSE
 For our linear regression model we will be calculating the Mean Square Error (MSE).  The MSE is based on the square of the error and the value lies between 0 and infinity.  MSE is used to check how close estimates or forecasts are to actual values. Lower the MSE, the closer is forecast to actual. This is used as a model evaluation measure for regression models and the lower value indicates a better fit.  The smaller the MSE the more accurate the mdoel.
 
-The MSE on the school Type only was 20,236,173.  The MSE on the School Type & Region was 18,556,8339.
+The MSE on the school Type only was 20,236,173.  The MSE on the School Type & Region was 18,556,8339 for our prediction model and 12,961,199 for the test data.
 
 ### K-Fold Cross Validation
 Cross-validation is a procedure used to avoid overfitting and estimate the skill of the model on new data. The value for k is chosen such that each train/test group of data samples is large enough to be statistically representative of the broader dataset. K-Fold Cross Validation is used because it ensures that every observation from the original dataset has the chance of appearing in training and test set.¶
 
-The 5-Cross Validation accuracy is 0.4988.
+The 5-Cross Validation accuracy is 0.4988 for our prediction model and 0.2975 for our test data.
 
 ## Conclusion
+![Distribution Plot of Actual Values vs Predicted Values](https://github.com/5Doppelgangers/Final/blob/main/Images/Distribution%20Graph%20of%20Actual%20Values%20vs%20Predicted%20Values.PNG)
+We can see that the actual values and predicted values are different in our train data. The range of the predicted values is lower, however, the mean doesn't look drastically different. Next, we do the same for the 20% test data to see if the outcome is similar.
 
 ## Observations
 
