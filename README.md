@@ -90,5 +90,6 @@ The distribution is not very different when comparing the training data and test
 
 ## Observations
 
-
+We looked at several different models to see what the best MSE is.  However, none of the MSEs associated with the models shown support using the models tested.
+![Model Comparison](https://github.com/5Doppelgangers/Final/blob/main/Images/Model%20Comparison%20Chart.PNG)
 
