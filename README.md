@@ -11,10 +11,20 @@ Link to Google Slides Presentation:
 
 ## Introduction
 
-Our team name is 5Doppelgangers and our selected topic is "Where it pays to go to college?" where we will look at entry level and mid tier salary by percentiles for states within the US based on the college attended. Our data comes from Kaggle, as Kaggle is a trustworthy site with a lot of interesting datasets that was recommended by our TA. Our data comes in the form of CSV files pulled directly from the Kaggle website. Questions that we hope to answer with the data include, but are not limited to, the following: 
+Our team name is 5Doppelgangers and our selected topic is "Where it pays to go to college?" where we will look at entry level salaries for states within the US based on the college attended. Our data comes from Kaggle, as Kaggle is a trustworthy site with a lot of interesting datasets that was recommended by our TA. Our data comes in the form of CSV files pulled directly from the Kaggle website. Questions that we hope to answer with the data include, but are not limited to, the following: 
 
-1. Which school had the highest paid graduates? Can we predict, based on school, what a person's salary will likely be regardless of major?
-2. Which state within the US pays the highest salaries to graduates from each school? Can we predict, based on a person's school and region, what they will likely make upon graduation? 
+1. Which school type had the highest paid graduates? Can we predict, based on school type, what a person's salary will likely be regardless of major?
+2. Which region within the US pays the highest salaries to graduates from each school type? Can we predict, based on a person's school typpe and region, what they will likely make upon graduation? 
+
+The purpose of this project is to make accurate salary predictions that are based on existing known salaries so students can make informed decisions when making their college choice. This model will help the colleges in marketing their school to future students as a reason to attend.
+
+Data transformation and machine learning will be used to create a model that will predict a salary based upon region and school type.
+
+The data for this model is relatively simplified as it has very few missing areas. The raw data consists of a dataset with the features listed above and their corresponding salaries. Twenty percent of this dataset was split into a test dataset with corresponding salaries so accuracy and error of the model can be determined.
+
+The features in this data set are described as below:
+Region: What area of the country the school is located in
+School Type: Party, Engineering, State, Liberal Arts, or Ivy League
 
 ## Citations and Resources
 
